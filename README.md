@@ -9,3 +9,5 @@ Day 4 - 2/19:
 Finished Firebase on Android the big picture
 Day 5 - 2/20
 Ultralearning  Audio book 
+Day 6 - 2/21
+Ultralearning audio book round 2
