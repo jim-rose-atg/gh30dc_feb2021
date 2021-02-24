@@ -13,3 +13,5 @@ Day 6 - 2/21
 Ultralearning audio book round 2
 Day 7 - 2/22
 Ultralearning audio book round 3
+Day 8 - 2/23 
+Snowflake - why should I care... on Pluralsight
