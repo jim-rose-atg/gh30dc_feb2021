@@ -17,3 +17,5 @@ Day 8 - 2/23
 Snowflake - why should I care... on Pluralsight
 Day 9 - 2/24 
 Snowflake training - 
+Day 10 - 2/26 
+Snowflake training
