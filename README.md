@@ -27,3 +27,5 @@ Day 14 - 3/1
 Snowflake day 4 and article on blockchain
 Day 15 - 3/2
 Snowflake Day 5
+Day 17 - 3/4
+More Snowflake article reviews
