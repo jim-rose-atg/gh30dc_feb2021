@@ -29,3 +29,5 @@ Day 15 - 3/2
 Snowflake Day 5
 Day 17 - 3/4
 More Snowflake article reviews
+Day 18 - 3/5
+More snowflake on plural sight
