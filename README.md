@@ -31,3 +31,5 @@ Day 17 - 3/4
 More Snowflake article reviews
 Day 18 - 3/5
 More snowflake on plural sight
+Day 19 - 3/6
+Snowflake Importing and exporting data module
