@@ -14,7 +14,7 @@ Ultralearning audio book round 2
 Day 7 - 2/22
 Ultralearning audio book round 3
 Day 8 - 2/23 
-Snowflake - why should I care... on Pluralsight
+Snowflake - "why should I care" course on Pluralsight
 Day 9 - 2/24 
 Snowflake training - 
 Day 10 - 2/26 
@@ -28,8 +28,10 @@ Snowflake day 4 and article on blockchain
 Day 15 - 3/2
 Snowflake Day 5
 Day 17 - 3/4
-More Snowflake article reviews
+More Snowflake and related article reviews
 Day 18 - 3/5
 More snowflake on plural sight
 Day 19 - 3/6
 Snowflake Importing and exporting data module
+
+
