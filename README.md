@@ -31,9 +31,11 @@ Day 17 - 3/4
 More Snowflake and related article reviews
 Day 18 - 3/5
 More snowflake on plural sight
-Day 19 - 3/6
+Day 19 - 3/7
 Snowflake Importing and exporting data module
 Day 20 - 3/7
 Skim what is programming in prep for Python basics
+Day 21 3/8
+Programming prep for Python basics
 
 
