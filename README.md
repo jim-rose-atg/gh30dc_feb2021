@@ -37,5 +37,6 @@ Day 20 - 3/7
 Skim what is programming in prep for Python basics
 Day 21 3/8
 Programming prep for Python basics
-
+Day 22 3/10
+what is Programming notes
 
